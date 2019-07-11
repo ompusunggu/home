@@ -1,0 +1,1 @@
+INSERT INTO public.users (id, email, personality_id, name) VALUES ('84eb4b7e-9130-f664-5dc7-673486a7998f', 'mail@jarjit.com', 'b4bb2e73-9b02-529c-0083-88e220b8ae3e', 'Mail');

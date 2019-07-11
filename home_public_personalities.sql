@@ -1,0 +1,1 @@
+INSERT INTO public.personalities (id, name) VALUES ('b4bb2e73-9b02-529c-0083-88e220b8ae3e', 'asd');
